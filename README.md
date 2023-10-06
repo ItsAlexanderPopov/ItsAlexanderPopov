@@ -1,3 +1,4 @@
+<a href="https://visitorbadge.io/status?path=ItsAlexanderPopov"><img src="https://api.visitorbadge.io/api/visitors?path=ItsAlexanderPopov&label=Visitors&labelColor=%23697689&countColor=%23263759&style=flat" /></a>
 <div align="center">
     <a href='https://github.com/ItsAlexanderPopov/ItsAlexanderPopov'>
         <img src='Logo1.png' alt="Logo" width="400px"/>
@@ -55,9 +56,4 @@ public class FullstackDeveloper {
 </div>
 
 ## Portfolio
-<div>
-    <a href='https://alexpopov.vercel.app'>
-        <img src='Portfolio.png' alt="Logo" width="400px"/>
-    </a>
-    
-</div>
+![Static Badge](https://img.shields.io/badge/Portfolio)
