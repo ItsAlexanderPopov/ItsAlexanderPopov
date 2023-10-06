@@ -36,15 +36,15 @@ public class FullstackDeveloper {
 <img src='https://github-readme-stats.vercel.app/api?username=ItsAlexanderPopov&show_icons=true&bg_color=00000000'/> 
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ItsAlexanderPopov&theme=nord&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ItsAlexanderPopov&theme=nord&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🗂️ Highlight Projects
 <div>
   <a href="https://github.com/ItsAlexanderPopov/Echo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ItsAlexanderPopov&repo=Echo&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Echo" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ItsAlexanderPopov&repo=Echo&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Echo"/>
   </a>
   <a href="https://github.com/ItsAlexanderPopov/Dashboard">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ItsAlexanderPopov&repo=Dashboard&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Dashboard" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ItsAlexanderPopov&repo=Dashboard&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Dashboard"/>
   </a>
 </div>
 
