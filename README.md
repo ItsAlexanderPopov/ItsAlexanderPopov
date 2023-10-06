@@ -1,3 +1,9 @@
+<div align="center">
+    <a href='https://github.com/ItsAlexanderPopov/ItsAlexanderPopov'>
+        <img src='Logo1.png' alt="Logo" width="400px"/>
+    </a>
+</div>
+
 # Hello there 👋
 ```java
 public class FullstackDeveloper {
@@ -49,3 +55,9 @@ public class FullstackDeveloper {
 </div>
 
 ## Portfolio
+<div>
+    <a href='https://alexpopov.vercel.app'>
+        <img src='Portfolio.png' alt="Logo" width="400px"/>
+    </a>
+    
+</div>
