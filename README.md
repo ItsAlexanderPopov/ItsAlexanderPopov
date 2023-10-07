@@ -1,4 +1,6 @@
+
 <a href="https://visitorbadge.io/status?path=ItsAlexanderPopov"><img src="https://api.visitorbadge.io/api/visitors?path=ItsAlexanderPopov&label=Visitors&labelColor=%23697689&countColor=%23263759&style=flat" /></a>
+
 <div align="center">
     <a href='https://github.com/ItsAlexanderPopov/ItsAlexanderPopov'>
         <img src='Logo1.png' alt="Logo" width="400px"/>
@@ -36,8 +38,43 @@ public class FullstackDeveloper {
 </div>
 
 ## Skills
+**Front**
+<div>
+    <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' alt='HTML5'/>
+    <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' alt='CSS3'/>
+    <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' alt='JavaScript'/>
+    <img src='https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white' alt='JQUERY'/>
+    <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt='React'/>
+    <img src='https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white' alt='NextJS'/>
+    <img src='https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9' alt='Electron'/>
+    <img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white' alt='Tailwind'/>
+    <img src='https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white' alt='ThreeJS'/>
+</div>
+<br/>
 
+**Back**
+<div>
+    <img src='https://img.shields.io/badge/Java-E34F26?style=for-the-badge' alt='Java'/>
+    <img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue' alt='Python'/>
+    <img src='https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white' alt='C#'/>
+    <img src='https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white' alt='Express'/>
+    <img src='https://img.shields.io/badge/RestAPI-505050?style=for-the-badge' alt='Rest API'/>
+    <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' alt='MongoDB'/>
+    <img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white' alt='MySQL'/>
+</div>
+<br/>
 
+**Tools**
+<div>
+    <img src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white' alt='GIT'/>
+    <img src='https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' alt='NodeJS'/>
+    <img src='https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white' alt='Postman'/>
+    <img src='https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white' alt='Selenium'/>
+    <img src='https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white' alt='Docker'/>
+    <img src='https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white' alt='VSCode'/>
+    <img src='https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white' alt='Eclipse'/>
+    <img src='https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white' alt='Intellij'/>
+</div>
 
 ## Github Stats
 <img src='https://github-readme-stats.vercel.app/api?username=ItsAlexanderPopov&show_icons=true&bg_color=00000000'/> 
@@ -56,4 +93,6 @@ public class FullstackDeveloper {
 </div>
 
 ## Portfolio
-![Static Badge](https://img.shields.io/badge/Portfolio)
+<a href='https://alexpopov.vercel.app'>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Open%20Portfolio-%23fca311">
+</a>
