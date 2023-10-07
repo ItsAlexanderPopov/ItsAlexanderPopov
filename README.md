@@ -80,7 +80,7 @@ public class FullstackDeveloper {
 <img src='https://github-readme-stats.vercel.app/api?username=ItsAlexanderPopov&show_icons=true&bg_color=00000000'/> 
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ItsAlexanderPopov&theme=nord&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ItsAlexanderPopov&theme=nord&column=4&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🗂️ Highlight Projects
 <div>
@@ -94,5 +94,5 @@ public class FullstackDeveloper {
 
 ## Portfolio
 <a href='https://alexpopov.vercel.app'>
-    <img alt="Static Badge" src="https://img.shields.io/badge/Open%20Portfolio-%23fca311">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Open%20Portfolio-%23fca311?style=for-the-badge">
 </a>
